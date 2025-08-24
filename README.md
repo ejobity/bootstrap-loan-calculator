@@ -32,7 +32,7 @@ A comprehensive loan calculator with Bootstrap styling, pie chart visualization,
 
 ## How to Use:
 
-1.  **Installation:** Save this code as a PHP file (e.g., `loan-calculator.php`) in your WordPress plugins directory (`/wp-content/plugins/loan-calculator/`)
+1.  **Installation:** Save this code as a PHP file (e.g., `loan-calculator.php`) in your WordPress plugins directory (`/wp-content/plugins/bootstrap-loan-calculator/`)
 2.  **Activation:** Go to WordPress admin → Plugins → Activate "Bootstrap Loan Calculator"
 3.  **Usage:** Add the shortcode `[bootstrap_loan_calculator]` to any post, page, or widget where you want the calculator to appear
 
