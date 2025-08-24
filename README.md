@@ -44,4 +44,6 @@ A comprehensive loan calculator with Bootstrap styling, pie chart visualization,
 -   **Calculations:** Uses standard loan amortization formulas (PMT function)
 -   **Security:** Includes WordPress nonce verification
 
-The calculator automatically handles different payment frequencies and provides accurate calculations for all scenarios. The amortization table shows the complete payment schedule with dates, and the pie
+The calculator automatically handles different payment frequencies and provides accurate calculations for all scenarios. The amortization table shows the complete payment schedule with dates, and the pie chart provides a visual representation of the principal vs interest distribution.
+
+![bootstrap-loan-calculator](https://loanfren.com/wp-content/uploads/2025/08/bootstrap-loan-calculator.jpg)
