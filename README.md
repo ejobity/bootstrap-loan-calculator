@@ -1,4 +1,10 @@
 # bootstrap-loan-calculator
+### Wordpress Plugin
+#### Requires at least: 6.0
+#### Tested up to: 6.8
+#### Stable tag: 1.0.0
+#### Requires PHP: 7.0
+#### License: GPLv2 or later
 A comprehensive loan calculator with Bootstrap styling, pie chart visualization, and amortization schedule. This is a wordpress plugin.
 
 
