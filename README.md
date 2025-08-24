@@ -1,4 +1,4 @@
-# bootstrap-loan-calculator
+# general-loan-calculator
 A comprehensive loan calculator with Bootstrap styling, pie chart visualization, and amortization schedule. This is a wordpress plugin.
 
 
@@ -32,14 +32,14 @@ A comprehensive loan calculator with Bootstrap styling, pie chart visualization,
 
 ## How to Use:
 
-1.  **Installation:** Save this code as a PHP file (e.g., `loan-calculator.php`) in your WordPress plugins directory (`/wp-content/plugins/bootstrap-loan-calculator/`)
+1.  **Installation:** Save this code as a PHP file (e.g., `loan-calculator.php`) in your WordPress plugins directory (`/wp-content/plugins/general-loan-calculator/`)
 2.  **Activation:** Go to WordPress admin → Plugins → Activate "Bootstrap Loan Calculator"
-3.  **Usage:** Add the shortcode `[bootstrap_loan_calculator]` to any post, page, or widget where you want the calculator to appear
+3.  **Usage:** Add the shortcode `[general_loan_calculator]` to any post, page, or widget where you want the calculator to appear
 
 ## Plugin Structure:
 
--   **Main Class:** `BootstrapLoanCalculator` handles all plugin functionality
--   **Shortcode:** `[bootstrap_loan_calculator]` renders the calculator interface
+-   **Main Class:** `GeneralLoanCalculator` handles all plugin functionality
+-   **Shortcode:** `[general_loan_calculator]` renders the calculator interface
 -   **Scripts & Styles:** Automatically enqueues Bootstrap, Chart.js, and custom styling
 -   **Calculations:** Uses standard loan amortization formulas (PMT function)
 -   **Security:** Includes WordPress nonce verification
